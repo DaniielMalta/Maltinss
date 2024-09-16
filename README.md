@@ -34,8 +34,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width:40px;height:40px;">
 </a>
 <hr>
-<em><b>I love connecting with different people</b><b>😊</em>
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<em><h1>I love connecting with different people</h1><b>😊</em>
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaniielMalta&bg_color=0d070a&color=6051d2&line=638c66&point=2a4747&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
