@@ -1,4 +1,4 @@
-## HelloWorld 👋👋👋👋👋    
+  HelloWorld 👋👋👋 
 <h1> I'm Daniel, passionate about languages and technologies, I decided to start my journey as a front end developer, I believe that several languages such as Spanish, Mandarin, English and Portuguese, can help me to stand out more as a Front-End professional .</h1>  
 <hr>
 
