@@ -1,5 +1,5 @@
 ## HelloWorld 👋👋👋👋👋    
-<b1> I'm Daniel, passionate about languages and technologies, I decided to start my journey as a front end developer, I believe that several languages such as Spanish, Mandarin, English and Portuguese, can help me to stand out more as a Front-End professional .</b1>  
+<h1> I'm Daniel, passionate about languages and technologies, I decided to start my journey as a front end developer, I believe that several languages such as Spanish, Mandarin, English and Portuguese, can help me to stand out more as a Front-End professional .</h1>  
 <hr>
 
 ## 🪜🪜🪜 Socials Media: <h1>I love a good break coffe ☕☕☕☕' and talking to different people. </h1>
